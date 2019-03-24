@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Weekly Review Guidelines](weekly-review-guidelines.md)
 
